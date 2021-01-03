@@ -71,4 +71,4 @@ y_test_h = y_test_h.
 # X_train_h, X_test_h, y_train_h, y_test_h = train_test_split(X_h, y_h, test_size=0.2, random_state=10, stratify=y)
 
 
-x=5
+x=7
